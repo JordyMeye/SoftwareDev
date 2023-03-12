@@ -1,5 +1,5 @@
-package.za.ac.cput.test;
-
+//(*)package.za.ac.cput.test;
+/
 import org.junit.Test;
 import static org.junit.Assert.*;
 import za.ac.cput.domain.Transaction;
