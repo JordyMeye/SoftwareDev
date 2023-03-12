@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7900f15-9dff-4c2f-bdc9-d5e4797945ed" name="Changes" comment="setting of packages and classes">
+    <list default="true" id="b7900f15-9dff-4c2f-bdc9-d5e4797945ed" name="Changes" comment="this is the second commit: code being added into the customer pojo class and testing class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/za/ac/cput/domain/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/domain/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/za/ac/cput/test/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/test/CustomerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/User",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -122,7 +121,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678476805818</updated>
-      <workItem from="1678476806974" duration="5270000" />
+      <workItem from="1678476806974" duration="10435000" />
     </task>
     <task id="LOCAL-00001" summary="setting of packages and classes">
       <created>1678477518952</created>
@@ -131,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678477518952</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="this is the second commit: code being added into the customer pojo class and testing class">
+      <created>1678565937302</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678565937302</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +145,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="setting of packages and classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="setting of packages and classes" />
+    <MESSAGE value="this is the second commit: code being added into the customer pojo class and testing class" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is the second commit: code being added into the customer pojo class and testing class" />
   </component>
 </project>
