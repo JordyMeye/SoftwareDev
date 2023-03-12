@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 # These file are not tracked by Git
 
 .idea/
 target/
 *.iml
 
+=======
+/target/
+/.idea/
+>>>>>>> 191af48 (Create Employee and employee test class)
